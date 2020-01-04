@@ -1,2 +1,2 @@
 # marmic2020
-MarMic Practical sessions
+MarMic Practical sessions -  See the wiki section for details.
